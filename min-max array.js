@@ -1,4 +1,3 @@
-
 function maxminNumber(largeNumber){
   let maxNumber = largeNumber[0];
   let minNumber = largeNumber[0]
